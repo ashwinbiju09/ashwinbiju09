@@ -1,40 +1,15 @@
-# 👋 Hey there, I’m Ashwin Kandathil Biju!
+# 👋 Hey there, I’m Ashwin !
 
-Welcome to my digital playground! I’m a **Software Developer** with a passion for building things that make life easier, smarter, and a lot more fun. Currently, I’m levelling up my coding game with an MSc in Advanced Computer Science at the University of Sheffield (UK), but my journey has already taken me across hackathons, open-source projects, and a few caffeine-fuelled all-nighters.
+I develop software and end-to-end web apps. Currently getting my hands dirty exploring AI frameworks and tools. I love building things that make life easier, smarter, and more fun. My journey has taken me through hackathons, internships, startup life, and a few caffeine-fuelled all-nighters.
 
 ---
 
 ## 🚀 About Me
 
-- 🧑‍💻 **2 years of experience:** From professional gigs to internships, I’ve crafted code that scales, solves problems, and sometimes even wins hackathons!
-- 🌍 **Global coder:** Worked remotely with teams in India and the UK, contributing to national platforms and international competitions.
-- 🛠️ **Tech Stack:** Python, JavaScript, TypeScript, React.js, Next.js, Django, Flask, OpenCV, Web3, Solidity, and more.
-- 📚 **Learning mode:** Always! From Machine Learning to NLP, the learning never stops.
-
----
-
-## 🏢 Experience Highlights
-
-- **Third Storage** (2023-2024):  
-  🏗️ Built open-source backend magic, made UIs snappier, and helped slash load times by 30%.
-
-- **MoE’s Innovation Cell (Gov. of India)** (2021):  
-  🚀 Helped 160,000+ students submit ideas securely for the Smart India Hackathon.  
-  🖥️ Made the platform beautiful and accessible—even during registration stampedes.
-
----
-
-## 🔥 Projects That Light My Fire
-
-- **Ecoledger:**  
-  Chain-smashing blockchain MVP for transparent carbon tracking. Sustainability FTW!
-
-- **Digital Fingerprint Extraction:**  
-  CSI meets code—built a system to verify identities using just a phone camera and some OpenCV magic.
-
-- **Khel Hindustan:**  
-  Automated Ministry of Youth Affairs & Sports processes, making bureaucracy a little less scary.
-
+- 🧑‍💻 **2 years of experience:** From internships to full-time roles, I’ve written code that scales, solves real problems, and even won hackathons.
+- 🌍 **Global coder:** Collaborated with teams across India and the UK, contributing to national platforms and international competitions.
+- 📚 **Always learning:** Whether it’s Machine Learning, NLP, or the latest AI tools — I’m always levelling up.
+- 
 ---
 
 ## 🏆 Achievements Unlocked
@@ -47,10 +22,6 @@ Welcome to my digital playground! I’m a **Software Developer** with a passion 
 
 ---
 
-## 💪 Volunteering & Mentoring
-
-Proud core team member at Hack Club SKCET—mentored students, led workshops, and helped others find their tech spark!
-
 ---
 
 ## 📜 Skills & Tools
@@ -60,13 +31,6 @@ Proud core team member at Hack Club SKCET—mentored students, led workshops, an
 `OpenCV` | `PyTorch`  
 `MySQL` | `MongoDB` | `SQLite`  
 `Git` | `GitHub` | `GitLab` | `Postman`
-
----
-
-## 📇 Certifications
-
-- **AWS Cloud Technical Essentials** (Apr 2025)
-
 ---
 
 ## 📬 Let’s Connect!
