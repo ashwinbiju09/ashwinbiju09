@@ -9,7 +9,7 @@ I develop software and end-to-end web apps. Currently getting my hands dirty exp
 - 🧑‍💻 **2 years of experience:** From internships to full-time roles, I’ve written code that scales, solves real problems, and even won hackathons.
 - 🌍 **Global coder:** Collaborated with teams across India and the UK, contributing to national platforms and international competitions.
 - 📚 **Always learning:** Whether it’s Machine Learning, NLP, or the latest AI tools — I’m always levelling up.
-- 
+  
 ---
 
 ## 🏆 Achievements Unlocked
@@ -22,15 +22,9 @@ I develop software and end-to-end web apps. Currently getting my hands dirty exp
 
 ---
 
----
-
 ## 📜 Skills & Tools
 
-`Python` | `JavaScript` | `TypeScript`  
-`React.js` | `Next.js` | `Flask` | `Django` | `Redux`  
-`OpenCV` | `PyTorch`  
-`MySQL` | `MongoDB` | `SQLite`  
-`Git` | `GitHub` | `GitLab` | `Postman`
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
 
 ## 📬 Let’s Connect!
