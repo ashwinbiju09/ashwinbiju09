@@ -12,6 +12,13 @@ I develop software and end-to-end web apps. Currently getting my hands dirty exp
   
 ---
 
+## 🛠️ Currently Working On
+
+- **Alexa Study Buddy Skill:**  
+  Building a personalized learning assistant using **Python**, **LangChain**, and **RAG (Retrieval-Augmented Generation)** techniques to create adaptive and interactive study experiences.
+
+---
+
 ## 🏆 Achievements Unlocked
 
 - 🌏 Finalist, Taiwan Presidential Hackathon (UN Sustainability Focus)
