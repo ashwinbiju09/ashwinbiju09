@@ -31,6 +31,8 @@ I develop software and end-to-end web apps. Currently getting my hands dirty exp
 
 ## 📜 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nextjs,react,redux,py,flask,django,sklearn,pytorch,opencv,mysql,sqlite,mongodb,aws,git,github,gitlab,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nextjs,react,redux,py,flask,django,sklearn,pytorch,opencv,mysql,sqlite,mongodb,aws,git,github,gitlab,postman,csharp
+)](https://skillicons.dev)
+
 
 ---
